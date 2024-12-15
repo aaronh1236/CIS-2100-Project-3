@@ -11,7 +11,6 @@ Identify the top 10 frequent itemsets for each store and across the organization
 - **Algorithm Used**: Apriori Algorithm.
 - **Metric**: **Support**  
   Support measures how frequently an itemset appears in transactions:  
-  \[
 
   **Example**:  
   If 30 out of 100 transactions include both *Activity Monitor* and *Smart Scale*, the support for the itemset `{Activity Monitor, Smart Scale}` is:  
